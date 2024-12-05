@@ -1,12 +1,12 @@
-#UML Assignment
+# UML Assignment
 
-##UML use Case Diagram for a Software Application
+## UML use Case Diagram for a Software Application
 
-###1. Description of the system:
+### 1. Description of the system:
 
 The e-commerce system is a digital platform designed to facilitate online transactions between customers and administrators. It allows customers to browse products, add items to their cart, manage accounts, and complete purchases with integrated payment and order tracking features. Administrators manage inventory, process orders, and oversee the platform's operations through a dedicated backend. The system provides seamless integration with payment gateways and ensures secure data handling to enhance user experiences and business efficiency.
 
-###2. Actors and responsibilities
+### 2. Actors and responsibilities
 
 	. Customer responsibilities:
 Customers are the primary users of the e-commerce system. Their responsibilities typically involve:
@@ -23,7 +23,7 @@ Order Tracking: After placing an order, they interact with the system to track i
 Administrators manage and maintain the system to ensure seamless operations. Their interactions include product Management: Adding, updating, or removing products in the catalog to keep inventory current.
 
 
-###3. Use cases explanation
+### 3. Use cases explanation
 . Browse Products
 Purpose: This use case allows customers to explore the product catalog.
 
